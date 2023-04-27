@@ -12,7 +12,7 @@ For reasons I never updated it, it only works to explore sites on servers that d
   
 This is bullshit that can be corrected with a little time...
   
-the motivation was that he had read half of the book "Concurrency in Practice" Brian Goetz (friend of the kapo Joshua Block) and wanted to put it tests if the concurrency actually served to explore the web faster, creating threads where each one explores an assigned page and coordinating the work so that the same page is not explored twice.
+The motivation arises after reading half of the book "Concurrency in Practice" Brian Goetz (friend of the kapo Joshua Block) and wanted to put into trial if concurrency actually served to explore the web faster, creating threads where each one explores an assigned page and coordinating the work so that the same page is not explored twice.
   
 Bottom line is: Concurrency DOES improve web scanning. Thanks for your honorships.
 
