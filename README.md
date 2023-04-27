@@ -6,7 +6,7 @@ Build System: Maven
 Deployed on: Google App Engine
 
 
-It is the web app that uses a system that explores web pages looking for <a> tags and building a site map from those "static" links.
+It is the web app that uses a system that explores web pages looking for `<a>` tags and building a site map from those "static" links.
   
 For reasons I never updated it, it only works to explore sites on servers that do not have ssl certificates, ergo, only http protocol (without s)
   
