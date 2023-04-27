@@ -11,6 +11,7 @@ Deployed on: Google App Engine
 * It is programmed to look for `<a>` tags and building a site map from those url, you may configure:
   * Number of workers: each worker recieves an url as parameter an does this => fetch the url, then parse it, the analize `<a>` tags and return next urls to scan (if are any)
   * Number of deep: How many pages do you wihs to get far from the source url. 
+* And the back comes with an internal API for friendly usage!
 
 ## Disclaimerships
 
